@@ -21,11 +21,9 @@ A continuación, las herramientas que manejo en mis proyectos:
 <table>
   <tr>
     <td align="center">
-      <p><strong>My GitHub Statistics</strong></p>
       <img src="https://github-readme-stats.vercel.app/api?username=lucasabad99&show_icons=true&theme=radical" alt="My GitHub Statistics">
     </td>
     <td align="center">
-      <p><strong>My Programming Languages</strong></p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabad99&layout=compact&theme=radical" alt="My Programming Languages">
     </td>
   </tr>
