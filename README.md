@@ -1,5 +1,5 @@
 # 👨‍💻 Lucas Abad - Desarrollador Full Stack en progreso
-¡Hola! Soy Lucas Abad, desarrollador en formación enfocado en el diseño y construcción de soluciones digitales. Actualmente estoy cursando la carrera de Desarrollo Full Stack en Coderhouse, donde me preparo para dominar todo el proceso de desarrollo web, desde la lógica de programación hasta la creación de interfaces modernas, intuitivas y escalables. Me motiva aprender, optimizar procesos y dar vida a ideas a través del código. 🚀
+¡Hola! Soy un desarrollador en formación enfocado en el diseño y construcción de soluciones digitales. Actualmente estoy cursando la carrera de Desarrollo Full Stack en Coderhouse, donde me preparo para dominar todo el proceso de desarrollo web, desde la lógica de programación hasta la creación de interfaces modernas, intuitivas y escalables. Me motiva aprender, optimizar procesos y dar vida a ideas a través del código. 🚀
 
 ## 🛠️ Tecnologías que utilizo
 A continuación, las herramientas que manejo en mis proyectos:
