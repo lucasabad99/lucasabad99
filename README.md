@@ -15,10 +15,16 @@ A continuación, las herramientas que manejo en mis proyectos:
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 
 </div>
+### 📊 GitHub Analytics
 
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasabad99&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabad99&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasabad99&theme=radical)
 ---
 
-## 📫 Contáctame
+#### 📫 Contáctame
 
 ¿Quieres trabajar conmigo o saber más sobre mis proyectos? Puedes contactarme a través de los siguientes medios:
 
