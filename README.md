@@ -40,7 +40,7 @@ A continuación, las herramientas que manejo en mis proyectos:
 ##### 📄 Descarga mi CV
 Puedes descargar mi [CV aquí](https://github.com/lucasabad99/lucasabad99/raw/main/assets/Cv%202024.pdf).
 
-Conecta conmigo en:
+##### Conecta conmigo en:
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-abad-14653026b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
