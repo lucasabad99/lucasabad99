@@ -36,11 +36,8 @@ A continuación, las herramientas que manejo en mis proyectos:
 #### 📫 Contáctame
 
 ¿Quieres trabajar conmigo o saber más sobre mis proyectos? Puedes contactarme a través de los siguientes medios:
-## Mi CV
+## 📄"Descarga mi CV aquí"
 Puedes descargar mi [CV aquí](https://github.com/lucasabad99/lucasabad99/raw/main/assets/Cv%202024.pdf).
-## Mi CV
-Puedes descargar mi [CV aquí](https://drive.google.com/uc?export=download&id=1yiTyT8fpLHXHZQvcxB6NlXv_sq2IV4VV).
-
 <div align="center">
   <a href="mailto:lucasabad80@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
