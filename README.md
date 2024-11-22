@@ -35,18 +35,13 @@ A continuación, las herramientas que manejo en mis proyectos:
 
 #### 📫 Contáctame
 
-¿Quieres trabajar conmigo o saber más sobre mis proyectos? Puedes contactarme a través de los siguientes medios:
+¿Te interesa trabajar conmigo o conocer más sobre mis proyectos? Aquí tienes cómo podemos conectar:
 
-<div align="center">
-##### 📄"Descarga mi CV aquí"
+##### 📄 Descarga mi CV
 Puedes descargar mi [CV aquí](https://github.com/lucasabad99/lucasabad99/raw/main/assets/Cv%202024.pdf).
-</div>
 
 <div align="center">
-  <a href="mailto:lucasabad80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-abad-14653026b">
+  <a href="https://www.linkedin.com/in/lucas-abad-14653026b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 </div>
