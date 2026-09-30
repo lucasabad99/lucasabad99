@@ -1,9 +1,9 @@
 # 👨‍💻 Lucas Abad
 ## Full Stack Developer | Backend + Frontend
 
-Soy un desarrollador Full Stack con foco en la construcción de aplicaciones web escalables, mantenibles y orientadas a resultados de negocio. Me interesa combinar experiencia de usuario, lógica de negocio, APIs, integración de sistemas y buenas prácticas de desarrollo para entregar soluciones de calidad.
+Soy un desarrollador Full Stack con experiencia en la creación de soluciones web escalables, mantenibles y orientadas a resultados. Me especializo en combinar experiencia de usuario, lógica de negocio, APIs, integración de sistemas y buenas prácticas de desarrollo para entregar productos funcionales y de calidad.
 
-Actualmente trabajo con JavaScript, TypeScript, React, Node.js, Express, APIs REST, bases de datos relacionales y no relacionales, Git/GitHub, y herramientas de despliegue y DevOps. Me apasiona seguir aprendiendo, mejorar procesos, escribir código limpio y colaborar en equipos que buscan crecer y construir productos con impacto real.
+Trabajo con JavaScript, TypeScript, React, Node.js, Express, APIs REST, bases de datos relacionales y no relacionales, Git/GitHub y herramientas de despliegue y DevOps. Me apasiona seguir aprendiendo, colaborar en equipos técnicos y construir software limpio, eficiente y con impacto real.
 
 ## 🛠️ Stack principal
 
