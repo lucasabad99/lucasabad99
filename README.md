@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Abad
+# 👨‍💻 Lucas Emir Abad Cancinos
 ## Full Stack Developer | Backend + Frontend
 
 Soy un desarrollador Full Stack con experiencia en la creación de soluciones web escalables, mantenibles y orientadas a resultados. Me especializo en combinar experiencia de usuario, lógica de negocio, APIs, integración de sistemas y buenas prácticas de desarrollo para entregar productos funcionales y de calidad.
