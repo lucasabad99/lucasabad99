@@ -84,11 +84,11 @@ Actualmente trabajo con JavaScript, TypeScript, React, Node.js, Express, APIs RE
 Si te interesa trabajar juntos o conocer más sobre mis proyectos, podés contactarme:
 
 ##### 📄 CV
-Puedes descargar mi [CV aquí](https://github.com/lucasabad99/lucasabad99/raw/main/assets/Cv%202024.pdf).
+El enlace actual apunta al PDF que todavía está guardado en la carpeta assets. Si subís el nuevo CV con otro nombre o reemplazás el archivo actual, el link quedará actualizado automáticamente.
 
 ##### Conectemos
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-abad-14653026b" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-abad-cancinos-14653026b" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 </div>
