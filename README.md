@@ -84,7 +84,9 @@ Actualmente trabajo con JavaScript, TypeScript, React, Node.js, Express, APIs RE
 Si te interesa trabajar juntos o conocer más sobre mis proyectos, podés contactarme:
 
 ##### 📄 CV
-El enlace actual apunta al PDF que todavía está guardado en la carpeta assets. Si subís el nuevo CV con otro nombre o reemplazás el archivo actual, el link quedará actualizado automáticamente.
+Puedes descargar mi CV aquí:
+
+[CV.pdf](https://github.com/lucasabad99/lucasabad99/raw/main/assets/CV.pdf)
 
 ##### Conectemos
 <div align="center">
